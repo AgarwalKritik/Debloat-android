@@ -34,7 +34,3 @@
    ```bash
    python debloater.py
    ```
-
-## Troubleshooting
-
-It's simple. Figure out yourself. [Useful link](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
