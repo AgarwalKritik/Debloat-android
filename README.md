@@ -1,4 +1,5 @@
 [![made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![built-for-android](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 
 # Android Debloater
 
