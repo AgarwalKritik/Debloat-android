@@ -1,3 +1,5 @@
+[![made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 # Android Debloater
 
 ### Clean your bloated device without root!
